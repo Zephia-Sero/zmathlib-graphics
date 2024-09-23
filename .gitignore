@@ -3,3 +3,4 @@ obj/
 bin/
 vgcore*
 compile_commands.json
+build/
